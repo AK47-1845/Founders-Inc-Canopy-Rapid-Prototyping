@@ -1,8 +1,15 @@
+# Founders Inc. Canopy — Rapid Prototyping Log
 
-<div align="center">
-  <h1>🏢 Founders Inc. Canopy: Rapid Prototyping</h1>
-  <p><b>High-velocity shipping logs, MVP architectures, and proof-of-concept tests.</b></p>
-  <img src="https://img.shields.io/badge/Accelerator-Founders_Inc-black?style=for-the-badge" />
-</div>
+High-velocity build log from the Founders Inc. Canopy spring cohort (US-based
+founder program, Apr 2026–present): MVPs, backend architectures, and POC tests
+shipped while taking Genuity IO from idea to funded, incubated venture.
 
-This repository contains the rapid iteration cycles and product MVPs developed during my time in the Founders Inc. Canopy cohort. It emphasizes shipping velocity, lean backend architectures, and customer-obsessed feature building.
+## Contents
+
+- `poc-archives/` (local only, not in git) — snapshots of cohort-era POC repos.
+- `activity_log.txt`, `system_logs.txt` — shipping log.
+
+## What the cohort changed
+
+Founder-market fit, product velocity, enterprise AI positioning, and a
+high-urgency execution cadence. The companies built here ship under Genuity IO.
